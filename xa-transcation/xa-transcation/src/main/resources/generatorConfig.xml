@@ -37,7 +37,7 @@
 
         <!--数据库链接URL，用户名、密码 -->
         <jdbcConnection driverClass="com.mysql.jdbc.Driver"
-                        connectionURL="jdbc:mysql://101.205.148.116:63306/jimisun?useUnicode=true&amp;characterEncoding=utf8&amp;zeroDateTimeBehavior=convertToNull&amp;useSSL=true&amp;serverTimezone=GMT%2B8&amp;nullCatalogMeansCurrent=true"
+                        connectionURL="jdbc:mysql://XXXX/jimisun?useUnicode=true&amp;characterEncoding=utf8&amp;zeroDateTimeBehavior=convertToNull&amp;useSSL=true&amp;serverTimezone=GMT%2B8&amp;nullCatalogMeansCurrent=true"
                         userId="root"
                         password="dsdb@1">
         </jdbcConnection>
